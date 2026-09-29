@@ -1,0 +1,6 @@
+{
+  "name": "Anime AI Clash - Đấu Trường Bóng Nảy Năng Lượng",
+  "description": "Game bóng nảy Anime đối kháng kịch tính giữa Gojo Satoru, Ryomen Sukuna và Sung Jin-Woo với các tuyệt kỹ Hư Thức Tử, Phục Ma Ngự Thần Điện, Trỗi Dậy Arise bùng nổ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
